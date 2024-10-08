@@ -1,8 +1,10 @@
+## Changes made by Rohith
+
 The project that uses AI to generate forms.
 
 <img width="1399" alt="Screenshot 2024-01-22 at 3 34 26 PM" src="https://github.com/judygab/ai-form-builder-tutorial/assets/50160672/443a69ed-e441-412a-a84e-ea820022c6dc">
 
-## Tech Stack 
+## Tech Stack
 
 - Next-auth - authentication
 - Shadcn ui - ui library
@@ -17,7 +19,6 @@ The project that uses AI to generate forms.
 - Stripe - Payments
 - Zod - Schema Validation
 
-
 ## Features
 
 - Authentication ✅
@@ -27,7 +28,7 @@ The project that uses AI to generate forms.
 - Admin Panel ✅
 - View Results ✅
 - Settings & Upgrade Subscription ✅
-- Analytics  ✅
+- Analytics ✅
 - Landing page ✅
 - Edit forms ❌ (open to pull requests)
 
@@ -54,6 +55,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Environment Variables
 
 Create a new .env file and add your keys in the following manner:
+
 ```
 OPENAI_API_KEY=""
 GOOGLE_CLIENT_ID=""
